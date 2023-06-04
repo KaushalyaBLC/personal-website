@@ -317,7 +317,7 @@ footer {
     }
 
     .navbar a {
-        font-size: 12px;
+        font-size: 14px;
         margin-left: 5%;
         justify-content: space-between;
         text-align: center;
@@ -376,6 +376,7 @@ footer {
         border-right: none;
         margin-bottom: 5%;
         flex-direction: column;
+        padding: 3%;
     }
 
     .row {
@@ -401,6 +402,7 @@ footer {
         max-width: 400px;
         margin: 0 auto;
         margin-top: 5%;
+        padding: 3%;
     }
 
 
