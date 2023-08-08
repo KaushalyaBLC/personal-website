@@ -279,14 +279,35 @@ footer {
     opacity: 40%;
 }
 
-.undercon {
-    width: 100%;
-    height: 100%;
-    text-align: center;
+.pkngMngmt {
+        margin-top: 10%;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+}
+.project-container{
+    margin-top: 10%;
+    text-align: justify;
     align-items: center;
     justify-content: center;
-    margin-top: 200px;
-    font-size: 30px;
+    width: 100%;
+}
+.project-title{
+    margin: 10px,0,10px,0;
+}
+.project-button{
+    margin-top: 1%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+h3{
+    margin-top:4%;
+    margin-bottom: 1%;
+}
+.project-detail{
+    margin-bottom: 5%;
 }
 
 @media only screen and (max-width: 1200px) {
